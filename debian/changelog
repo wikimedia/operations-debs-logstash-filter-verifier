@@ -1,0 +1,6 @@
+logstash-filter-verifier (1.6.0+ds-1) buster-wikimedia; urgency=medium
+
+  * New (repackaged) upstream release, see debian/README.source
+  * Import Debian packaging from upstream's 62df060c5020
+
+ -- Filippo Giunchedi <filippo@wikimedia.org>  Wed, 06 May 2020 14:13:34 +0200
